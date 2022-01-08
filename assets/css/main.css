@@ -41,6 +41,11 @@
 
 }
 
+#inactive {
+	pointer-events: none;
+	cursor: default;
+}
+
 /*
 	Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
